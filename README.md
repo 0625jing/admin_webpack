@@ -12,16 +12,17 @@
 ```
 ### 项目结构描述
 ```
-** config **：
+config ：
 webpack配置
 ```
 ```
-**public**
+public:
 ```
 ```
-**script**
+script:
 ```
 ```
-**src**：这里面放的是跟项目相关的页面
+src：
+这里面放的是跟项目相关的页面
 ```
 
