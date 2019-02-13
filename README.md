@@ -12,7 +12,8 @@
 ```
 ### 项目结构描述
 ```
-**config**：webpack配置
+** config **：
+webpack配置
 ```
 ```
 **public**
